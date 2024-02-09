@@ -85,10 +85,12 @@ export const Skill_data = [
     {
       name: "Facebook",
       src: "/linkedin.png",
+      url:"https://linkedin.com/in/mehmet-ömer-demir-uk"
     },
     {
       name: "github",
       src: "/github.png",
+      url:"https://github.com/Mr-DEM1R"
     },
   ];
   

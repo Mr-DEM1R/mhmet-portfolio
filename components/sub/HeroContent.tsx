@@ -49,6 +49,9 @@ const HeroContent = () => {
           I&apos;m a Full Stack Software Engineer with experience in Website. Check out my projects and skills. Additionally, I&apos;ve worked on various projects in Artificial Intelligence and Data Science
         </motion.p>
         <motion.a
+          href="https://drive.google.com/file/d/13PS4VcVKqefBlzHNyNpKFpOJssxnUw4U/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
